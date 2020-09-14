@@ -38,7 +38,6 @@
 }
 
 \examples{
-  \code{
   ## Load the sample data
   data(SampleData)
   ## Number of genes and samples
@@ -47,7 +46,6 @@
   mod1 <- superdelta2(mydata = SIM1, offset = 1, Grps = Groups)
   mod2 <- superdelta2(mydata = SIM2, offset = 1, Grps = Groups)
   mod3 <- superdelta2(mydata = SIM3, offset = 1, Grps = Groups)
-  }
 }
 
 \keyword{datasets}
