@@ -1,0 +1,6 @@
+importFrom("stats", "IQR", "approx", "approxfun", "dnorm", "median", "model.matrix", "p.adjust", "pchisq", "pf", "t.test")
+importFrom("utils", "combn")
+importFrom("matrixStats", "rowOrderStats")
+
+export(superdelta2, substr_by_cha, Sim1, Sim2)
+

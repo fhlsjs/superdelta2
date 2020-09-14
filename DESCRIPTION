@@ -1,0 +1,12 @@
+Package: superdelta2
+Title: Superdelta procedure for multiple group differential gene expression analysis
+Version: 0.1
+Date: 2020-09-14
+Author: Yuhang Liu, Xing Qiu, Jinfeng Zhang, and Zihan Cui
+Maintainer: Yuhang Liu <fhlsjs@gmail.com>
+Description: This is a comprehensive differential gene expression analysis procedure that can be implemented for RNA-seq data and multiple group comparisons.
+Depends: matrixStats
+Imports: 
+Suggests: pROC, ggplot2, limma, DESeq2, edgeR, genefilter
+License: LGPL
+LazyLoad: yes
